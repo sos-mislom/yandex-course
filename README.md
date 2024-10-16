@@ -1,3 +1,4 @@
-Все спринты от Яндекса
+Первый спринт от Яндекса
 
-Деплоймент 
+Деплоймент
+https://sos-mislom.github.io/Learn-to-learn--Layout/
