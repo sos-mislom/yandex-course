@@ -1,0 +1,10 @@
+.header__lang {
+    display: flex;
+    gap: 18px;
+    list-style-type: none;
+    justify-self: end;
+    padding: 0;
+    margin-top: 0;
+    /* выравнивание текста относительно логотипа */
+    margin-bottom: -10px;
+}

@@ -1,0 +1,16 @@
+.header_offset_vertical {
+    padding-top: 28px;
+    padding-bottom: 56px;
+}
+
+@media screen and (max-width: 1279px) {
+    .header_offset_vertical {
+        padding-bottom: 48px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header_offset_vertical {
+        padding-top: 16px;
+    }
+}
