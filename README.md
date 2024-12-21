@@ -12,11 +12,4 @@
 - Адаптивность
 
 ## Деплоймент
-https://sos-mislom.github.io/yandex-course/
-<<<<<<< Updated upstream
-
-
-
-
-=======
->>>>>>> Stashed changes
+[Mesto](https://sos-mislom.github.io/yandex-course/)
